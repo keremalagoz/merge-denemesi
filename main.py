@@ -1,1 +1,1 @@
-print('Versiyon 1')
+print("Version 2 - Yiğit")
